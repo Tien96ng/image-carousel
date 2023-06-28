@@ -8,5 +8,20 @@
 }
 
 .carousel {
-  margin-top: 30%;
+  height: 100vh;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
+
+.themeButton {
+  display: flex;
+  justify-content: center;
 }
